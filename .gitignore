@@ -1,0 +1,9 @@
+# Clion
+.idea/
+
+# Bazel
+bazel-*
+
+# Vim
+*.swp
+*.swo
